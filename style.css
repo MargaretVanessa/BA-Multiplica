@@ -1,0 +1,22 @@
+body {
+  margin: auto;
+  width: 800px; 
+  padding: 50px;
+  font-family: 'Arial', sans-serif; 
+  background-color: gray;    
+}
+
+h1{
+    color:aqua;
+    text-align: center;
+}
+
+h4{
+    color: blue;
+    font-weight: 700;
+    text-align: center;
+}
+
+img{
+    : center;
+}
